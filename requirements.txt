@@ -1,0 +1,17 @@
+setuptools
+# ipykernel
+pandas
+numpy
+# flask
+# joblib
+seaborn
+matplotlib
+scikit-learn
+dill
+# log_viewer
+pycaret
+# importlib_metadata
+Jinja2==3.0.3
+
+
+-e .
