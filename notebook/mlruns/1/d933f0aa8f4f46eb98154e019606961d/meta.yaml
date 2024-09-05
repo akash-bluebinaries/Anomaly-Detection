@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/1/d933f0aa8f4f46eb98154e019606961d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d933f0aa8f4f46eb98154e019606961d
+run_name: Logistic Regression
+run_uuid: d933f0aa8f4f46eb98154e019606961d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723549784542
+status: 1
+tags: []
+user_id: 2401-00010

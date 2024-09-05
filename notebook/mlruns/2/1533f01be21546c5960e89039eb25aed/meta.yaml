@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/2/1533f01be21546c5960e89039eb25aed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1533f01be21546c5960e89039eb25aed
+run_name: Extra Trees Classifier
+run_uuid: 1533f01be21546c5960e89039eb25aed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725528148677
+status: 1
+tags: []
+user_id: 2401-00010

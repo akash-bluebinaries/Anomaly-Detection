@@ -1,17 +1,18 @@
 setuptools
-# ipykernel
+mlflow
+imblearn
 pandas
 numpy
-# flask
-# joblib
 seaborn
 matplotlib
 scikit-learn
 dill
-# log_viewer
 pycaret
-# importlib_metadata
 Jinja2==3.0.3
+# flask
+# joblib
+# importlib_metadata
+# log_viewer
 
 
 -e .

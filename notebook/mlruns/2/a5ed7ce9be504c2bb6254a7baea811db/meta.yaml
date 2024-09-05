@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/2/a5ed7ce9be504c2bb6254a7baea811db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a5ed7ce9be504c2bb6254a7baea811db
+run_name: Naive Bayes
+run_uuid: a5ed7ce9be504c2bb6254a7baea811db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725527749407
+status: 1
+tags: []
+user_id: 2401-00010

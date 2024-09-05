@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/2/8ad35332bdd445159d3e261d6e048d69/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8ad35332bdd445159d3e261d6e048d69
+run_name: Gradient Boosting Classifier
+run_uuid: 8ad35332bdd445159d3e261d6e048d69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725527748222
+status: 1
+tags: []
+user_id: 2401-00010

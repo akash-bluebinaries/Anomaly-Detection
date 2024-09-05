@@ -1,6 +1,6 @@
 artifact_location: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/1
-creation_time: 1722939788839
+creation_time: 1723549744477
 experiment_id: '1'
-last_update_time: 1722939788839
+last_update_time: 1723549744477
 lifecycle_stage: active
-name: anomalyDetection001
+name: MlflowUsingPycaret

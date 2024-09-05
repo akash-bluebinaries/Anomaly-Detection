@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/2/4e3c7271bc934e3f8f361ce3fc7ddf2b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4e3c7271bc934e3f8f361ce3fc7ddf2b
+run_name: Quadratic Discriminant Analysis
+run_uuid: 4e3c7271bc934e3f8f361ce3fc7ddf2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725527750817
+status: 1
+tags: []
+user_id: 2401-00010

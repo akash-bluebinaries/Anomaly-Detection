@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/2/a85e890b283b4b39a406e7e5e59ef8ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a85e890b283b4b39a406e7e5e59ef8ae
+run_name: Light Gradient Boosting Machine
+run_uuid: a85e890b283b4b39a406e7e5e59ef8ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725527742510
+status: 1
+tags: []
+user_id: 2401-00010

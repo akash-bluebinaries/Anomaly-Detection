@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/src/AD/pipeline/mlruns/1/f22db23d941d48d2830ed96c896a2e4f/artifacts
+end_time: 1723534929135
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f22db23d941d48d2830ed96c896a2e4f
+run_name: Basic_Model
+run_uuid: f22db23d941d48d2830ed96c896a2e4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723534925223
+status: 3
+tags: []
+user_id: 2401-00010

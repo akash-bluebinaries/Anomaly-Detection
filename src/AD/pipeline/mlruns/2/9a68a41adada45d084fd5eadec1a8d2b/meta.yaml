@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/src/AD/pipeline/mlruns/2/9a68a41adada45d084fd5eadec1a8d2b/artifacts
+end_time: 1723534949075
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9a68a41adada45d084fd5eadec1a8d2b
+run_name: Tuned_Model
+run_uuid: 9a68a41adada45d084fd5eadec1a8d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723534945801
+status: 3
+tags: []
+user_id: 2401-00010

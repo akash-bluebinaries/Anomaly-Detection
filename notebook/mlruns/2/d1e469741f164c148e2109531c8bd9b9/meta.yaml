@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/2/d1e469741f164c148e2109531c8bd9b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d1e469741f164c148e2109531c8bd9b9
+run_name: Ada Boost Classifier
+run_uuid: d1e469741f164c148e2109531c8bd9b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725527749150
+status: 1
+tags: []
+user_id: 2401-00010

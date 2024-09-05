@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/2/027253fefde947a5b98bce23f14059c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 027253fefde947a5b98bce23f14059c3
+run_name: Random Forest Classifier
+run_uuid: 027253fefde947a5b98bce23f14059c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725527763326
+status: 1
+tags: []
+user_id: 2401-00010

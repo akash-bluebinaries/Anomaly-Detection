@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/mlruns/2/bcc0160aa70d4ec1b6d33f0971fce7b9/artifacts
+end_time: 1723536284292
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: bcc0160aa70d4ec1b6d33f0971fce7b9
+run_name: Session Initialized 9fa8
+run_uuid: bcc0160aa70d4ec1b6d33f0971fce7b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723536284008
+status: 3
+tags: []
+user_id: 2401-00010

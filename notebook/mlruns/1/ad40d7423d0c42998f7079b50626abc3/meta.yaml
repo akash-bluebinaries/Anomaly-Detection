@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/1/ad40d7423d0c42998f7079b50626abc3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad40d7423d0c42998f7079b50626abc3
+run_name: Linear Discriminant Analysis
+run_uuid: ad40d7423d0c42998f7079b50626abc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723549784982
+status: 1
+tags: []
+user_id: 2401-00010

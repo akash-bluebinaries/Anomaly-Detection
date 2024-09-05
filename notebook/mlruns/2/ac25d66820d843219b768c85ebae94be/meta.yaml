@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/2/ac25d66820d843219b768c85ebae94be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ac25d66820d843219b768c85ebae94be
+run_name: Session Initialized 446d
+run_uuid: ac25d66820d843219b768c85ebae94be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725515298531
+status: 1
+tags: []
+user_id: 2401-00010

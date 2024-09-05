@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/mlruns/3/984401ed00184268a157961040317063/artifacts
+end_time: 1723539022733
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 984401ed00184268a157961040317063
+run_name: test001
+run_uuid: 984401ed00184268a157961040317063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723539010300
+status: 3
+tags: []
+user_id: 2401-00010

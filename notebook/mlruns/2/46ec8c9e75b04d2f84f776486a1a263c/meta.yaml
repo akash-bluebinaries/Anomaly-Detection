@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/2/46ec8c9e75b04d2f84f776486a1a263c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 46ec8c9e75b04d2f84f776486a1a263c
+run_name: SVM - Linear Kernel
+run_uuid: 46ec8c9e75b04d2f84f776486a1a263c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725527749642
+status: 1
+tags: []
+user_id: 2401-00010

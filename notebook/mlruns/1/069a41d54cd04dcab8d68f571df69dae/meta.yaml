@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/1/069a41d54cd04dcab8d68f571df69dae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 069a41d54cd04dcab8d68f571df69dae
+run_name: K Neighbors Classifier
+run_uuid: 069a41d54cd04dcab8d68f571df69dae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723549785645
+status: 1
+tags: []
+user_id: 2401-00010

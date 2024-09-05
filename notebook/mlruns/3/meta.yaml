@@ -1,0 +1,6 @@
+artifact_location: file:///D:/bmsAnomalyDetection/application/Anomaly-detection/notebook/mlruns/3
+creation_time: 1725529249253
+experiment_id: '3'
+last_update_time: 1725529249253
+lifecycle_stage: active
+name: training_experiment_1
