@@ -5,12 +5,15 @@ from src.exception import CustomException
 from src.logger import logging
 from src.utils import save_object
 from dataclasses import dataclass
+from sklearn.model_selection import train_test_split
 
 
 @dataclass
 class AnomalyDetectionConfig:
     labelledData_path : str = os.path.join('artifacts','labelledData.csv')
     anomalyDetector_path : str = os.path.join('artifacts','anomalyDetector.pkl')
+    train_data_path: str = os.path.join('artifacts', 'train.csv')
+    test_data_path: str = os.path.join('artifacts', 'test.csv')
 
 
 class AnomalyDetection:
@@ -44,15 +47,21 @@ class AnomalyDetection:
             svm_results.to_csv(self.detectionConfig.labelledData_path, index=False, header=True)
             save_object(
                 file_path=self.detectionConfig.anomalyDetector_path,
-                obj=svm
-            )
+                obj=svm)
+            
+            logging.info('Initiating train test split')
+            train_df, test_df = train_test_split(svm_results, test_size=0.3, random_state=101, stratify=svm_results['Anomaly'])
+            train_df.to_csv(self.detectionConfig.train_data_path, index=False, header=True)
+            test_df.to_csv(self.detectionConfig.test_data_path, index=False, header=True)
 
 
 
             logging.info('Anomaly Detection Successful')
             return (
                 self.detectionConfig.labelledData_path,
-                self.detectionConfig.anomalyDetector_path
+                self.detectionConfig.anomalyDetector_path,
+                self.detectionConfig.train_data_path,
+                self.detectionConfig.test_data_path
                 )
 
         except Exception as e:

@@ -27,7 +27,9 @@ class DataIngestion:
             df.to_csv(self.ingestion_config.raw_data_path, index=False,header= True)
 
             logging.info('Data Ingestion Successful')
-            return self.ingestion_config.raw_data_path
+            return (
+                self.ingestion_config.raw_data_path
+                )
 
         except Exception as e:
             raise CustomException(e,sys)
@@ -35,7 +37,7 @@ class DataIngestion:
 
 if __name__ == "__main__":
     obj = DataIngestion()
-    raw_data = obj.initiate_data_ingestion()
+    obj.initiate_data_ingestion()
 
 
             
