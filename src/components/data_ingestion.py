@@ -6,6 +6,10 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
 
+from src.components.data_transformation import DataTransformation
+from src.components.data_transformation import DataTransformationConfig
+
+from src.components.model_trainer import ModelTrainer, ModelTrainerConfig
 
 @dataclass
 class DataIngestionConfig:
@@ -35,9 +39,19 @@ class DataIngestion:
             raise CustomException(e,sys)
             
 
-if __name__ == "__main__":
-    obj = DataIngestion()
-    obj.initiate_data_ingestion()
+if __name__=='__main__':
+    obj= DataIngestion()
+    train_data,test_data=obj.initiate_data_ingestion()
+
+
+    logging.info('2. ENTERING DATA_TRANSFORMATION MODULE')
+    data_transformation=DataTransformation()
+    train_arr,test_arr,_= data_transformation.initiate_data_transformation(train_data,test_data)
+
+
+    logging.info('3. ENTERING MODEL_TRAINER MODULE')
+    modeltrainer=ModelTrainer()
+    print(modeltrainer.initiate_model_trainer("artifacts/train.csv","artifacts/test.csv"))
 
 
             
